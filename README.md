@@ -15,3 +15,8 @@ TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremen
 
 
 ![apr1](https://user-images.githubusercontent.com/66983974/118410708-2dba4180-b667-11eb-819f-bdda1a99d0d9.jpg)
+
+
+![apr4](https://user-images.githubusercontent.com/66983974/118411246-f13c1500-b669-11eb-9ed1-6c418d192c11.jpg)
+
+![apr3](https://user-images.githubusercontent.com/66983974/118411261-03b64e80-b66a-11eb-95e7-87b14584cf88.jpg)
