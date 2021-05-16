@@ -11,3 +11,7 @@ Foco nos testes unitários: mostrar o porque é importante o desenvolvimento des
 Principais frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest.
 Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de cervejas no estoque.
+
+
+
+![apr1](https://user-images.githubusercontent.com/66983974/118410708-2dba4180-b667-11eb-819f-bdda1a99d0d9.jpg)
